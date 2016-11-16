@@ -1,4 +1,1 @@
-# Research Data Management
-## 16.11.2016 
-
-
+# Woh ist jetzt dass ganze hin?
